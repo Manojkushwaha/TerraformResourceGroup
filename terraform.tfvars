@@ -9,4 +9,10 @@ vars={
         location="central india"
 
     }
+     rg3={
+        name="rg2"
+        location="central india"
+
+    }
+
 }
